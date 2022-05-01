@@ -6,6 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     Animator m_Animator;
     Vector3 m_Movement;
+    public float turnSpeed;
 
     void Start ()
     {
