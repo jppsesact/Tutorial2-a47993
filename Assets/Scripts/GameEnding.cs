@@ -37,6 +37,7 @@ public class GameEnding : MonoBehaviour
         else if (m_IsPlayerCaught)
         {
             EndLevel (caughtBackgroundImageCanvasGroup, true);
+          gameEnding.CaughtPlayer();
         }
     }
 
