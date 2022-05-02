@@ -645,9 +645,9 @@ MonoBehaviour:
   displayImageDuration: 1
   player: {fileID: 50888152}
   exitBackgroundImageCanvasGroup: {fileID: 65832161}
-  exitAudio: {fileID: 0}
+  exitAudio: {fileID: 1970247314}
   caughtBackgroundImageCanvasGroup: {fileID: 187987681}
-  caughtAudio: {fileID: 0}
+  caughtAudio: {fileID: 1562873403}
 --- !u!1001 &655922557
 PrefabInstance:
   m_ObjectHideFlags: 0
