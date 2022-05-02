@@ -4346,5 +4346,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle
       objectReference: {fileID: 0}
+    - target: {fileID: 2608844166566772054, guid: 6ef934c0d8945fe4e9ccfcb52d4b850a,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 18a9868d017a8b946907d15eeed27920, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6ef934c0d8945fe4e9ccfcb52d4b850a, type: 3}
